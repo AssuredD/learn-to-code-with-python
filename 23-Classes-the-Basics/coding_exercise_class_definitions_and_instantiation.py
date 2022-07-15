@@ -1,0 +1,28 @@
+# Declare a Country class with an empty body.
+class Country():
+    pass
+
+
+# Instantiate an object from the class and assign it to an “america" variable.
+america = Country()
+# Instantiate another object from the class and assign it to a “canada” variable.
+canada = Country()
+
+# Instantiate a third object from the class and assign it to a “mexico” variable.
+mexico = Country()
+
+
+# Declare a Superhero class with an empty body.
+
+class Supperhero():
+    pass
+
+# Instantiate an object from the class and assign it to an “spiderman" variable.
+
+
+spiderman = Supperhero()
+# Instantiate another object from the class and assign it to a “batman” variable.
+
+batman = Supperhero()
+# Instantiate a third object from the class and assign it to a “superman” variable.
+superman = Supperhero()
